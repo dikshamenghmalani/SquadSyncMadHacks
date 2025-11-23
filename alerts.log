@@ -2,11 +2,11 @@
 49	group_notification	Blue-H1	Blue-H2	Blue-H1 notified that teammate Blue-H2 disconnected at (14.79, -1.01).
 49	group_notification	Blue-H3	Blue-H2	Blue-H3 notified that teammate Blue-H2 disconnected at (14.79, -1.01).
 49	group_notification	Blue-H4	Blue-H2	Blue-H4 notified that teammate Blue-H2 disconnected at (14.79, -1.01).
-49	relay_support	network	Blue-H2	Blue-H2 is disconnected from Blue but now relayed by Yellow near (14.79, -1.01).
-49	group_update	Blue-H1	Blue-H2	Blue-H1 updated: Blue-H2 now with Yellow near (14.79, -1.01).
-49	group_update	Blue-H3	Blue-H2	Blue-H3 updated: Blue-H2 now with Yellow near (14.79, -1.01).
-49	group_update	Blue-H4	Blue-H2	Blue-H4 updated: Blue-H2 now with Yellow near (14.79, -1.01).
-49	host_update	Yellow-H1	Blue-H2	Yellow-H1 relaying Blue-H2 for Blue near (14.79, -1.01).
-49	host_update	Yellow-H2	Blue-H2	Yellow-H2 relaying Blue-H2 for Blue near (14.79, -1.01).
-49	host_update	Yellow-H3	Blue-H2	Yellow-H3 relaying Blue-H2 for Blue near (14.79, -1.01).
-49	host_update	Yellow-H4	Blue-H2	Yellow-H4 relaying Blue-H2 for Blue near (14.79, -1.01).
+49	relay_support	network	Blue-H2	Blue-H2 is disconnected from Blue but now relayed by Orange near (14.79, -1.01).
+49	group_update	Blue-H1	Blue-H2	Blue-H1 updated: Blue-H2 now with Orange near (14.79, -1.01).
+49	group_update	Blue-H3	Blue-H2	Blue-H3 updated: Blue-H2 now with Orange near (14.79, -1.01).
+49	group_update	Blue-H4	Blue-H2	Blue-H4 updated: Blue-H2 now with Orange near (14.79, -1.01).
+49	host_update	Orange-H1	Blue-H2	Orange-H1 relaying Blue-H2 for Blue near (14.79, -1.01).
+49	host_update	Orange-H2	Blue-H2	Orange-H2 relaying Blue-H2 for Blue near (14.79, -1.01).
+49	host_update	Orange-H3	Blue-H2	Orange-H3 relaying Blue-H2 for Blue near (14.79, -1.01).
+49	host_update	Orange-H4	Blue-H2	Orange-H4 relaying Blue-H2 for Blue near (14.79, -1.01).

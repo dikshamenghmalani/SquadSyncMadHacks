@@ -10,7 +10,8 @@ requires-python = "^3.11"
 dependencies = [
     "networkx (>=3.5,<4.0)",
     "matplotlib (>=3.10.7,<4.0.0)",
-    "numpy (>=2.3.5,<3.0.0)"
+    "numpy (>=2.3.5,<3.0.0)",
+    "pyproj (>=3.7.2,<4.0.0)"
 ]
 
 

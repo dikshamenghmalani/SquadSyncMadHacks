@@ -1,0 +1,5 @@
+53	disconnected	Blue	Blue-H4	Blue-H4 disconnected from Blue at (11.10, -0.97).
+53	group_notification	Blue-H1	Blue-H4	Blue-H1 notified that teammate Blue-H4 disconnected at (11.10, -0.97).
+53	group_notification	Blue-H2	Blue-H4	Blue-H2 notified that teammate Blue-H4 disconnected at (11.10, -0.97).
+53	group_notification	Blue-H3	Blue-H4	Blue-H3 notified that teammate Blue-H4 disconnected at (11.10, -0.97).
+53	isolated	network	Blue-H4	Blue-H4 is fully isolated with no communication path.

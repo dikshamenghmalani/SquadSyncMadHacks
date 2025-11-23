@@ -1,0 +1,16 @@
+24	reconnected	Blue	Blue-H4	Blue-H4 reconnected with Blue via Blue-H4 -> Orange-H3 -> Blue-H2 near (15.20, -0.86).
+24	group_update	Blue-H1	Blue-H4	Blue-H1 updated: Blue-H4 now reachable near (15.20, -0.86).
+24	group_update	Blue-H2	Blue-H4	Blue-H2 updated: Blue-H4 now reachable near (15.20, -0.86).
+24	group_update	Blue-H3	Blue-H4	Blue-H3 updated: Blue-H4 now reachable near (15.20, -0.86).
+31	disconnected	Blue	Blue-H2	Blue-H2 disconnected from Blue at (11.10, -0.95).
+31	group_notification	Blue-H1	Blue-H2	Blue-H1 notified that teammate Blue-H2 disconnected at (11.10, -0.95).
+31	group_notification	Blue-H3	Blue-H2	Blue-H3 notified that teammate Blue-H2 disconnected at (11.10, -0.95).
+31	group_notification	Blue-H4	Blue-H2	Blue-H4 notified that teammate Blue-H2 disconnected at (11.10, -0.95).
+31	relay_support	network	Blue-H2	Blue-H2 is disconnected from Blue but now relayed by Orange near (11.10, -0.95).
+31	group_update	Blue-H1	Blue-H2	Blue-H1 updated: Blue-H2 now with Orange near (11.10, -0.95).
+31	group_update	Blue-H3	Blue-H2	Blue-H3 updated: Blue-H2 now with Orange near (11.10, -0.95).
+31	group_update	Blue-H4	Blue-H2	Blue-H4 updated: Blue-H2 now with Orange near (11.10, -0.95).
+31	host_update	Orange-H1	Blue-H2	Orange-H1 relaying Blue-H2 for Blue near (11.10, -0.95).
+31	host_update	Orange-H2	Blue-H2	Orange-H2 relaying Blue-H2 for Blue near (11.10, -0.95).
+31	host_update	Orange-H3	Blue-H2	Orange-H3 relaying Blue-H2 for Blue near (11.10, -0.95).
+31	host_update	Orange-H4	Blue-H2	Orange-H4 relaying Blue-H2 for Blue near (11.10, -0.95).
